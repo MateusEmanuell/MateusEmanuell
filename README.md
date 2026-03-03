@@ -1,16 +1,17 @@
-## Hi there 👋
+Olá a todos!
 
-<!--
-**MateusEmanuell/MateusEmanuell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Mateus, um desenvolvedor junior. Gosto de construir meus projetos com o máximo de responsividade e atenção aos detalhes, com foco em manter as coisas simples, mas eficientes.
 
-Here are some ideas to get you started:
+Nestes dias, estou focado em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estrutura de Dados em C e Python
+HTML, CSS e Javascript
+
+Meu próximo projeto:
+
+
+Fatos interessantes:
+
+Estou em meu segundo ano de faculdade de Análise e Desenvolvimento de Sistemas
+Em breve farei vestibular para Engenharia de Software
+Estou procurando aprimorar minhas habilidades em Segurança Cibernética.
