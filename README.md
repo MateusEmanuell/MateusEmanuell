@@ -18,11 +18,6 @@ Desenvolvedor de Software focado em construir soluções robustas, seguras e efi
 ### 📂 Projetos em Destaque
 
 1. **[API & Dashboard IoT](https://github.com/MateusEmanuell/iot-dashboard-api)**: Ingestão de dados de sensores com FastAPI, conteinerizado com Docker em VPS Linux.
-2. **[API REST Spring Boot](https://github.com/MateusEmanuell)**: Backend para agendamento comercial estruturado com Padrões de Projeto (GoF) e testes em JUnit.
-3. **[App de Finanças Android](https://github.com/MateusEmanuell)**: Aplicativo mobile offline-first com persistência criptografada Room SQL.
-4. **[Dashboard de Big Data](https://github.com/MateusEmanuell)**: Pipeline de ETL e visualização estatística com Pandas e Streamlit.
-5. **[Portal Acadêmico Seguro](https://github.com/MateusEmanuell)**: Sistema web defensivo em PHP/JS protegido contra OWASP Top 10 e em conformidade com a LGPD.
-
 ---
 
 ### 📫 Como me encontrar:
